@@ -4,8 +4,8 @@
     "authName": "Nizam",
     "handler": "./index.js",
     "session": "./session.json",
-    "numberNon": "62882337931332",
-    "botNumberNon": "6283102176419",
+    "numberNon": "62856432604381",
+    "botNumberNon": "62882337931332",
     "ownerNumber": [
         "6285643260438@s.whatsapp.net",
         "62856432604381@s.whatsapp.net"
@@ -29,6 +29,6 @@
    }
      },
    "ownernama": "Nizam",
-   "revokedd": "6283102176419-1629287518@g.us",
-   "codeinvit": "EiznDZqIWu40QPVO0Q9MVn"
+   "revokedd": "62882337931332-1629287518@g.us",
+   "codeinvit": "FRpUpAwgnLS9UwAtjJYjeM"
      }
