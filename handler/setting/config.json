@@ -1,16 +1,16 @@
 {
-    "packName": "Lexmoon",
+    "packName": "Nizam",
     "reason": "Sedang Sibuk",
-    "authName": "@Lexmoon",
+    "authName": "Nizam",
     "handler": "./index.js",
-    "session": "./handler/session/session.json",
-    "numberNon": "6283102176419",
+    "session": "./session.json",
+    "numberNon": "62882337931332",
     "botNumberNon": "6283102176419",
     "ownerNumber": [
-        "6283102176419@s.whatsapp.net",
-        "994402977958@s.whatsapp.net"
+        "6285643260438@s.whatsapp.net",
+        "62856432604381@s.whatsapp.net"
     ],
-   "ownerTunggal": "6283102176419@s.whatsapp.net",
+   "ownerTunggal": "62856432604381@s.whatsapp.net",
    "style" : {
    "satu":"•",
    "dua":"⎙"
@@ -28,7 +28,7 @@
    "baileys" : "v 3.5.2"
    }
      },
-   "ownernama": "Towartz",
+   "ownernama": "Nizam",
    "revokedd": "6283102176419-1629287518@g.us",
    "codeinvit": "EiznDZqIWu40QPVO0Q9MVn"
      }
